@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_text_splitters
+tree_sitter_languages
+sentence-transformers
+faiss-cpu
+rich
+tree-sitter<0.22.0
+llama-cpp-python
