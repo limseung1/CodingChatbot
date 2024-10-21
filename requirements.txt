@@ -7,3 +7,5 @@ faiss-cpu
 rich
 tree-sitter<0.22.0
 llama-cpp-python
+rank_bm25
+langchain_ollama
